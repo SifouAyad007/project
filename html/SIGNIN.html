@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot Services</title>
+    <link href='https://fonts.googleapis.com/css?family=Jockey One' rel='stylesheet'>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/login.css">
+    <script src="../js/faq.js"></script>
+</head>
+<body>
+
+        <script src="../js/signin.js"></script>
+
+        <div class="hamburger-menu" onclick="toggleMenu()">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+        <nav id="navbar" class="nav-links">
+            <ul>
+                <li><a href="html/PRODUCT.html">Products</a></li>
+                <li><a href="html/pricing.html" id="a1">Pricing</a></li>
+                <li><a href="html/Contact.html" id="a1">Contact</a></li>
+                <li><a href="html/LOGIN.html" class="login-btn">Log in</a></li>
+                <li><a href="html/SIGNIN.html" id="signup-btn">Sign In For Free</a></li>
+            </ul>
+        </nav>
+        <!-- Navigation Bar -->
+        <nav class="navbar">
+            <a href="../index.html"><div class="logo"><img id="lg" src="../img/userbot.png" alt="" srcset=""> <p><strong>H</strong>ire <strong>Y</strong>our <strong>B</strong>ot</p></div></a>
+            
+            <ul>
+                <li>
+                    <div class="dropdown">
+                        <a href="PRODUCT.html">Products</a>
+                       
+                  </div>
+                </li>
+    
+                <li><a href="pricing.html" id="a1">Pricing</a></li>
+                <li><a href="Contact.html" id="a1">Contact</a></li>
+                <li><a href="LOGIN.html" class="login-btn">Log in</a></li>
+                <li><a href="SIGNIN.html" id="signup-btn">Sign In For Free</a></li>
+            </ul>
+        </nav>
+    <br>
+    <br>
+    <br>  
+    <div class="form1">
+        <div class="title">Welcome</div>
+        <div class="subtitle">Create Your account</div>
+        <div class="input-container ic2">
+            <input id="fn" class="input" type="text" placeholder=" " required/>
+            <div class="cut cut-short"></div>
+            <label for="email" class="placeholder">First Name</label>
+        </div>
+          <div class="input-container ic2">
+            <input id="ln" class="input" type="text" placeholder=" " />
+            <div class="cut cut-short"></div>
+            <label for="lastname" class="placeholder">Last Name</label>
+        </div>
+        <div class="input-container ic2">
+            <input id="phone" class="input" type="text" placeholder=" " />
+            <div class="cut cut-short"></div>
+            <label for="phone" class="placeholder">Phone Number</label>
+        </div>
+        <div class="input-container ic2">
+          <input id="em" class="input" type="email" placeholder=" " />
+          <div class="cut cut-short"></div>
+          <label for="email" class="placeholder">Email</label>
+        </div>
+        <div class="input-container ic2">
+          <input id="pass" class="input" type="password" placeholder="" />
+          <div class="cut cut-short"></div>
+          <label for="pass" class="placeholder">Password</label>
+        </div>
+        <div class="input-container ic2">
+            <input id="conf-passeword" class="input" type="password" placeholder="" />
+            <div class="cut cut-short"></div>
+            <label for="pass" class="placeholder">Password</label>
+        </div>
+        
+        
+        <button type="text" class="submit" onclick="signin()">Register </button>
+        
+    </div>
+    <div id="emailError"></div>
+    <br>
+    <div id="passwordError"></div>
+
+    <p id="lp">If you already have account<a href="LOGIN.html"> go from here</a> </p>
+    <!-- footer section start -->
+    <footer class="footer">
+        <div class="waves">
+        <div class="wave" id="wave1"></div>
+        <div class="wave" id="wave2"></div>
+        <div class="wave" id="wave3"></div>
+        <div class="wave" id="wave4"></div>
+        </div>
+        <ul class="social-icon">
+        <li class="social-icon__item"><a class="social-icon__link" href="#">
+            <ion-icon name="logo-facebook"></ion-icon>
+            </a></li>
+        <li class="social-icon__item"><a class="social-icon__link" href="#">
+           
+            </a></li>
+        <li class="social-icon__item"><a class="social-icon__link" href="#">
+           
+            </a></li>
+        <li class="social-icon__item"><a class="social-icon__link" href="#">
+            <ion-icon name="logo-instagram"></ion-icon>
+            </a></li>
+        </ul>
+        <ul class="menu">
+        <li class="menu__item"><a class="menu__link" href="../index.html">Home</a></li>
+        <li class="menu__item"><a class="menu__link" href="./PRODUCT.html">Products</a></li>
+        <li class="menu__item"><a class="menu__link" href="./pricing.html">Pricing</a></li>
+        <li class="menu__item"><a class="menu__link" href="./LOGIN.html">Login</a></li>
+        <li class="menu__item"><a class="menu__link" href="./SIGNIN.html">Sign in</a></li>
+        
+
+        </ul>
+        <p>&copy;2024 Seif-Eddine Ayad | All Rights Reserved</p>
+    </footer>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>

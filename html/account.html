@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account</title>
+    <link href='https://fonts.googleapis.com/css?family=Jockey One' rel='stylesheet'>
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/account.css">
+</head>
+<body>
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="../js/account.js"></script>
+    <script src="../js/server.js"></script>
+        <!-- Navigation Bar -->
+        <nav class="navbar">
+            <a href="../index.html"><div class="logo"><img id="lg" src="../img/userbot.png" alt="" srcset=""> <p><strong>H</strong>ire <strong>Y</strong>our <strong>B</strong>ot</p></div></a>
+            
+            <ul>
+                <li>
+                    
+            </ul>
+            <div class="dropdown">
+                <button class="dropdown-toggle">
+                  <i class="fas fa-user-alt" style="font-size: 24px; color:grey"></i>
+                  <span>Account ▼</span>
+                </button>
+                <div class="dropdown-menu">
+                  <a href="#" class="dropdown-item">My Profile</a>
+                  <a href="#" class="dropdown-item">Upgrade <span class="crown-icon">👑</span></a>
+                  <a href="#" class="dropdown-item logout">Logout</a>
+                </div>
+              </div>
+        
+        </nav>
+
+    
+
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+     <!-- Left Panel: Customization Text -->
+      <div class="custumize">
+         <div class="custumtext">
+        <div class="panel-container">
+          <!-- General Settings -->
+          <div class="panel">
+            <div class="panel-header" onclick="togglePanel('general-settings')">
+              <span class="panel-title">General Settings</span>
+              <span class="toggle-icon">+</span>
+            </div>
+            <div class="panel-content" id="general-settings">
+              <div class="form-group">
+                
+                <div class="logo-preview">
+                  <img src="../img/userbot2.png" alt="Logo" class="logo-image">
+                  
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="chatbot-name">Chatbot Name</label>
+                <input type="text" id="bo" placeholder="Name" class="text-input">
+              </div>
+              <div class="form-group">
+                <label for="stream-response">Stream AI Response</label>
+                <div class="checkbox-container">
+                  <input type="checkbox" id="stream-response" class="checkbox">
+                  <span class="checkbox-label">Enable streaming text in AI response.</span>
+                  <button class="add-new-question" onclick="setnamebot()">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+               <!-- Welcome Popup -->
+<div class="panel">
+    <div class="panel-header" onclick="togglePanel('welcome-popup')">
+      <span>Welcome Message</span>
+      <span class="toggle-icon">+</span>
+    </div>
+    <div class="panel-content" id="welcome-popup">
+      <div class="form-group">
+        <p>You can type your welcome message here.</p>
+        
+        <div class="message-box">
+          
+          <div class="message-input-container">
+            <textarea 
+              id="welc"
+              class="message-input"
+              placeholder="Write your message here..."></textarea>
+            <button class="delete-btn">✖</button>
+          </div>
+        </div>
+  
+        <button class="add-message-btn" onclick="displaywelcommessage()">Add message</button>
+      </div>
+    </div>
+  </div>
+  
+  
+          <!-- Welcome Message -->
+          <div class="panel">
+            <div class="panel-header" onclick="togglePanel('welcome-message')">
+              <span>Defult questions</span>
+              <span class="toggle-icon">+</span>
+            </div>
+            <div class="panel-content" id="welcome-message">
+
+                <div class="question-box" id="qusbx">
+                  <div class="question-row">
+                    <div class="label-input">
+                      <label >Question</label>
+                      <input
+                        id="ques"
+                        type="text"
+                        placeholder="Add question label text"
+                        class="text-input"
+                      />
+                    </div>
+                    <div class="question-input">
+                      <label >Answer</label>
+                      <textarea
+                        id="answer"
+                        class="text-input"
+                        placeholder="Add Answer text"
+                      ></textarea>
+                    </div>
+                    <button class="delete-btn" onclick="deleteQuestion(this)">✖</button>
+                  </div>
+                
+                
+
+                
+
+
+                <button class="add-new-question" onclick="duplicateContainer()">Add new question</button>
+            </div>
+              </div>
+          </div>
+        </div>
+      </div>
+  
+
+
+
+
+
+
+      <!-- Right Panel: Chat Interface -->
+      <div class="custumchat">
+        <div class="chat-container">
+          <!-- Header -->
+          <div class="chat-header">
+            <div class="header-left">
+              <div class="bot-avatar">
+                <img src="../img/userbot2.png" alt="Logo" class="logo-image">
+              </div>
+              <p id="botname"></p>
+            </div>
+            <div class="header-right">
+              <button class="icon-btn"><i class="fa-thin fa-trash-can" style="color: #ffffff;"></i></button>
+              <button class="icon-btn">✖</button>
+              
+            </div>
+          </div>
+  
+          <!-- Chat Body -->
+          <div class="chat-body" id="CB">
+
+            <div class="message" id="botres">
+              <div class="bot-avatar-small"> <img src="../img/userbot2.png" alt="Logo" class="logo-image"></div>
+              <div class="message-content">
+                <span id="msg-cont">👋 Hi There !</span>
+                
+              </div>
+            </div>
+            
+          </div>
+  
+          <!-- Chat Footer -->
+          <div class="chat-footer">
+            <textarea  id="user-text" placeholder="Ask your question"> </textarea><button style="font-size:24px" onclick="restoques()"> <i class="material-icons">send</i></button>
+          </div>
+        </div>
+      </div>
+  
+    </div>
+</div>
+    <script src="script.js"></script>
+  
+      
+    
+
+
+
+
+
+<!-- footer section start -->
+<footer class="footer">
+    <div class="waves">
+    <div class="wave" id="wave1"></div>
+    <div class="wave" id="wave2"></div>
+    <div class="wave" id="wave3"></div>
+    <div class="wave" id="wave4"></div>
+    </div>
+    <ul class="social-icon">
+    <li class="social-icon__item"><a class="social-icon__link" href="#">
+        <ion-icon name="logo-facebook"></ion-icon>
+        </a></li>
+    <li class="social-icon__item"><a class="social-icon__link" href="#">
+       
+        </a></li>
+    <li class="social-icon__item"><a class="social-icon__link" href="#">
+       
+        </a></li>
+    <li class="social-icon__item"><a class="social-icon__link" href="#">
+        <ion-icon name="logo-instagram"></ion-icon>
+        </a></li>
+    </ul>
+    <ul class="menu">
+    <li class="menu__item"><a class="menu__link" href="../index.html">Home</a></li>
+    <li class="menu__item"><a class="menu__link" href="./PRODUCT.html">Products</a></li>
+    <li class="menu__item"><a class="menu__link" href="./pricing.html">Pricing</a></li>
+    <li class="menu__item"><a class="menu__link" href="./LOGIN.html">Login</a></li>
+    <li class="menu__item"><a class="menu__link" href="./SIGNIN.html">Sign in</a></li>
+    
+
+    </ul>
+    <p>&copy;2024 Seif-Eddine Ayad | All Rights Reserved</p>
+</footer>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
+
+
+</body>

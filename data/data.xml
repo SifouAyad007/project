@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qaList>
+    <qa>
+        <question>What is JavaScript?</question>
+        <answer>JavaScript is a programming language used to make web pages interactive.</answer>
+    </qa>
+    <qa>
+        <question>What is HTML?</question>
+        <answer>HTML is the standard markup language for creating web pages.</answer>
+    </qa>
+    <qa>
+        <question>What is CSS?</question>
+        <answer>CSS is a style sheet language used for describing the presentation of a document written in HTML.</answer>
+    </qa>
+    <qa>
+        <question>What is Python?</question>
+        <answer>Python is a high-level programming language known for its readability and versatility.</answer>
+    </qa>
+    <qa>
+        <question>What is a database?</question>
+        <answer>A database is an organized collection of data that can be easily accessed and managed.</answer>
+    </qa>
+    <qa>
+        <question>What is the capital of France?</question>
+        <answer>The capital of France is Paris.</answer>
+    </qa>
+    <qa>
+        <question>What is photosynthesis?</question>
+        <answer>Photosynthesis is the process by which green plants use sunlight to synthesize food from carbon dioxide and water.</answer>
+    </qa>
+    <qa>
+        <question>Who wrote *Romeo and Juliet*?</question>
+        <answer>*Romeo and Juliet* was written by William Shakespeare.</answer>
+    </qa>
+    <qa>
+        <question>What is the speed of light?</question>
+        <answer>The speed of light is approximately 299,792 kilometers per second.</answer>
+    </qa>
+    <qa>
+        <question>What is a black hole?</question>
+        <answer>A black hole is a region of space where gravity is so strong that nothing, not even light, can escape from it.</answer>
+    </qa>
+    <qa>
+        <question>What is the largest planet in our solar system?</question>
+        <answer>The largest planet in our solar system is Jupiter.</answer>
+    </qa>
+    <qa>
+        <question>What is the Pythagorean theorem?</question>
+        <answer>The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.</answer>
+    </qa>
+    <qa>
+        <question>What is the boiling point of water?</question>
+        <answer>The boiling point of water is 100 degrees Celsius at standard atmospheric pressure.</answer>
+    </qa>
+    <qa>
+        <question>What is artificial intelligence?</question>
+        <answer>Artificial intelligence is the simulation of human intelligence in machines.</answer>
+    </qa>
+    <qa>
+        <question>What is the periodic table?</question>
+        <answer>The periodic table is a tabular arrangement of chemical elements, ordered by their atomic number.</answer>
+    </qa>
+    <qa>
+        <question>What is gravity?</question>
+        <answer>Gravity is a force that attracts objects with mass towards each other.</answer>
+    </qa>
+    <qa>
+        <question>Who discovered electricity?</question>
+        <answer>Electricity was discovered through experiments by Benjamin Franklin and later studied in detail by Michael Faraday.</answer>
+    </qa>
+    <qa>
+        <question>What is a galaxy?</question>
+        <answer>A galaxy is a large system of stars, gas, dust, and dark matter bound together by gravity.</answer>
+    </qa>
+    <qa>
+        <question>What is quantum physics?</question>
+        <answer>Quantum physics is the study of matter and energy at the most fundamental level.</answer>
+    </qa>
+    <qa>
+        <question>What is the tallest mountain in the world?</question>
+        <answer>Mount Everest is the tallest mountain in the world, standing at 8,848 meters.</answer>
+    </qa>
+    <qa>
+        <question>What is the meaning of life?</question>
+        <answer>The meaning of life varies among individuals and cultures; some see it as seeking purpose or happiness.</answer>
+    </qa>
+    <qa>
+        <question>Who was Albert Einstein?</question>
+        <answer>Albert Einstein was a theoretical physicist who developed the theory of relativity.</answer>
+    </qa>
+    <qa>
+        <question>What is renewable energy?</question>
+        <answer>Renewable energy comes from sources that are naturally replenished, such as solar, wind, and hydropower.</answer>
+    </qa>
+    <qa>
+        <question>What is the theory of evolution?</question>
+        <answer>The theory of evolution, proposed by Charles Darwin, explains how species change over time through natural selection.</answer>
+    </qa>
+    <qa>
+        <question>What is cryptocurrency?</question>
+        <answer>Cryptocurrency is a digital currency secured by cryptography, such as Bitcoin and Ethereum.</answer>
+    </qa>
+    <qa>
+        <question>What is the Big Bang theory?</question>
+        <answer>The Big Bang theory explains the origin of the universe as a rapid expansion from a singularity about 13.8 billion years ago.</answer>
+    </qa>
+    <qa>
+        <question>What is machine learning?</question>
+        <answer>Machine learning is a subset of artificial intelligence where machines improve their performance based on data.</answer>
+    </qa>
+        <qa>
+        <question>How are you today?</question>
+        <answer>I’m doing well, thank you. How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s your name?</question>
+        <answer>My name is Alex. What’s yours?</answer>
+    </qa>
+    <qa>
+        <question>Where are you from?</question>
+        <answer>I’m from New York. What about you?</answer>
+    </qa>
+    <qa>
+        <question>What do you do for a living?</question>
+        <answer>I’m a software engineer. And you?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite hobby?</question>
+        <answer>I love reading books. How about you?</answer>
+    </qa>
+    <qa>
+        <question>Do you like traveling?</question>
+        <answer>Yes, I love traveling. My favorite destination is Italy.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite food?</question>
+        <answer>Pizza is my favorite food. What about you?</answer>
+    </qa>
+    <qa>
+        <question>Do you have any siblings?</question>
+        <answer>Yes, I have one brother and one sister. What about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s the weather like today?</question>
+        <answer>It’s sunny and warm today. Perfect for a walk!</answer>
+    </qa>
+    <qa>
+        <question>Do you like watching movies?</question>
+        <answer>Yes, I enjoy watching action and comedy movies.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite color?</question>
+        <answer>My favorite color is blue. What’s yours?</answer>
+    </qa>
+    <qa>
+        <question>What kind of music do you like?</question>
+        <answer>I enjoy listening to jazz and pop music.</answer>
+    </qa>
+    <qa>
+        <question>Do you like sports?</question>
+        <answer>Yes, I enjoy playing basketball and watching football.</answer>
+    </qa>
+    <qa>
+        <question>What time do you usually wake up?</question>
+        <answer>I usually wake up at 7 AM.</answer>
+    </qa>
+    <qa>
+        <question>Do you prefer tea or coffee?</question>
+        <answer>I prefer coffee in the morning and tea in the evening.</answer>
+    </qa>
+    <qa>
+        <question>Do you like animals?</question>
+        <answer>Yes, I love animals, especially dogs and cats.</answer>
+    </qa>
+    <qa>
+        <question>What’s your dream job?</question>
+        <answer>My dream job is to become a travel photographer.</answer>
+    </qa>
+    <qa>
+        <question>Do you enjoy cooking?</question>
+        <answer>Yes, I enjoy trying out new recipes in my free time.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite book?</question>
+        <answer>My favorite book is *To Kill a Mockingbird* by Harper Lee.</answer>
+    </qa>
+    <qa>
+        <question>Do you play any musical instruments?</question>
+        <answer>Yes, I play the guitar. Do you play any instruments?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite holiday destination?</question>
+        <answer>I love visiting the beach during my holidays.</answer>
+    </qa>
+    <qa>
+        <question>Do you have any pets?</question>
+        <answer>Yes, I have a dog named Max. Do you have any pets?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite season?</question>
+        <answer>My favorite season is spring. I love seeing the flowers bloom.</answer>
+    </qa>
+    <qa>
+        <question>Do you enjoy reading?</question>
+        <answer>Yes, I read a lot of novels and biographies.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite type of movie?</question>
+        <answer>I enjoy watching science fiction movies. What about you?</answer>
+    </qa>
+    <qa>
+        <question>What do you like to do on weekends?</question>
+        <answer>I like going out with friends or relaxing at home.</answer>
+    </qa>
+    <qa>
+        <question>Do you like art?</question>
+        <answer>Yes, I enjoy visiting art galleries and painting in my free time.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite TV show?</question>
+        <answer>My favorite TV show is *Stranger Things*. Do you have a favorite show?</answer>
+    </qa>
+    <qa>
+        <question>Do you exercise regularly?</question>
+        <answer>Yes, I go to the gym three times a week.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite subject in school?</question>
+        <answer>My favorite subject was history. What about you?</answer>
+    </qa>
+    <qa>
+        <question>What do you usually do in the evenings?</question>
+        <answer>I usually relax, watch TV, or read a book in the evenings.</answer>
+    </qa>
+    <qa>
+        <question>Do you like trying new foods?</question>
+        <answer>Yes, I love exploring different cuisines when I travel.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite sport to watch?</question>
+        <answer>I enjoy watching soccer games. What’s yours?</answer>
+    </qa>
+    <qa>
+        <question>Do you prefer the mountains or the beach?</question>
+        <answer>I prefer the beach for relaxation, but I enjoy hiking in the mountains too.</answer>
+    </qa>
+    <qa>
+        <question>Do you enjoy gardening?</question>
+        <answer>Yes, I find gardening to be very calming and rewarding.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite type of dessert?</question>
+        <answer>I love chocolate cake. How about you?</answer>
+    </qa>
+    <qa>
+        <question>Do you enjoy meeting new people?</question>
+        <answer>Yes, I enjoy making new friends and learning about their lives.</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite type of clothing?</question>
+        <answer>I prefer casual clothing like jeans and T-shirts.</answer>
+    </qa>
+    <qa>
+        <question>Do you like coffee shops?</question>
+        <answer>Yes, I love spending time in cozy coffee shops with a good book.</answer>
+    </qa>
+    <qa>
+        <question>What do you usually have for breakfast?</question>
+        <answer>I usually have eggs and toast for breakfast.</answer>
+    </qa>
+    <qa>
+        <question>Do you like shopping?</question>
+        <answer>Yes, I enjoy shopping for clothes and gadgets.</answer>
+    </qa>
+    <qa>
+        <question>What’s your dream vacation?</question>
+        <answer>My dream vacation is to visit the Maldives and relax by the ocean.</answer>
+    </qa>
+        <qa>
+        <question>Hi!</question>
+        <answer>Hello! How are you?</answer>
+    </qa>
+    <qa>
+        <question>Hello!</question>
+        <answer>Hi there! How’s it going?</answer>
+    </qa>
+    <qa>
+        <question>Hey!</question>
+        <answer>Hey! What’s up?</answer>
+    </qa>
+    <qa>
+        <question>Good morning!</question>
+        <answer>Good morning! How did you sleep?</answer>
+    </qa>
+    <qa>
+        <question>Good afternoon!</question>
+        <answer>Good afternoon! How’s your day been?</answer>
+    </qa>
+    <qa>
+        <question>Good evening!</question>
+        <answer>Good evening! How’s everything going?</answer>
+    </qa>
+    <qa>
+        <question>How’s it going?</question>
+        <answer>It’s going great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you?</question>
+        <answer>I’m doing well, thanks for asking! How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s up?</question>
+        <answer>Not much, just relaxing. What’s up with you?</answer>
+    </qa>
+    <qa>
+        <question>What’s new?</question>
+        <answer>Not much, just keeping busy. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been?</question>
+        <answer>I’ve been good, thanks for asking! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How do you do?</question>
+        <answer>I’m doing great, thank you. And you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything?</question>
+        <answer>Everything’s going well! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s life?</question>
+        <answer>Life’s good, keeping busy. How’s everything with you?</answer>
+    </qa>
+    <qa>
+        <question>What’s going on?</question>
+        <answer>Not much! Just here, enjoying the day. What about you?</answer>
+    </qa>
+    <qa>
+        <question>Yo!</question>
+        <answer>Yo! What’s happening?</answer>
+    </qa>
+    <qa>
+        <question>Hey there!</question>
+        <answer>Hey! How’s everything going?</answer>
+    </qa>
+    <qa>
+        <question>Howdy!</question>
+        <answer>Howdy! How are you doing?</answer>
+    </qa>
+    <qa>
+        <question>What’s up with you?</question>
+        <answer>Not much, just chilling. How about you?</answer>
+    </qa>
+    <qa>
+        <question>Long time no see!</question>
+        <answer>Yeah, it’s been a while! How have you been?</answer>
+    </qa>
+    <qa>
+        <question>Nice to meet you!</question>
+        <answer>Nice to meet you too! How are you?</answer>
+    </qa>
+    <qa>
+        <question>It’s good to see you!</question>
+        <answer>Good to see you too! How’s everything?</answer>
+    </qa>
+    <qa>
+        <question>Hey, how’s it going?</question>
+        <answer>Hey! It’s going well, how about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s happening?</question>
+        <answer>Not much, just enjoying the day. What about you?</answer>
+    </qa>
+    <qa>
+        <question>Good to see you!</question>
+        <answer>Good to see you too! What have you been up to?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything with you?</question>
+        <answer>Everything’s great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day been?</question>
+        <answer>It’s been good, thanks! How’s yours?</answer>
+    </qa>
+    <qa>
+        <question>Good to talk to you!</question>
+        <answer>Good to talk to you too! How have you been?</answer>
+    </qa>
+    <qa>
+        <question>What have you been up to?</question>
+        <answer>Just staying busy! What about you?</answer>
+    </qa>
+    <qa>
+        <question>What are you doing?</question>
+        <answer>Just hanging out. What about you?</answer>
+    </qa>
+    <qa>
+        <question>How do you feel?</question>
+        <answer>I feel great, thanks! How do you feel?</answer>
+    </qa>
+    <qa>
+        <question>What’s your plan for today?</question>
+        <answer>Just relaxing today. What about you?</answer>
+    </qa>
+    <qa>
+        <question>How are things going?</question>
+        <answer>Things are going well, thanks for asking!</answer>
+    </qa>
+    <qa>
+        <question>What’s your mood today?</question>
+        <answer>I’m in a good mood today. How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s going on with you?</question>
+        <answer>Not much, just taking it easy. What’s going on with you?</answer>
+    </qa>
+    <qa>
+        <question>How was your day?</question>
+        <answer>It was great! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything going for you?</question>
+        <answer>Everything’s going well! How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s happening in your life?</question>
+        <answer>Not much, just staying busy. What’s happening with you?</answer>
+    </qa>
+    <qa>
+        <question>What’s new with you?</question>
+        <answer>Nothing new, just the usual. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s work going?</question>
+        <answer>Work’s going well, pretty busy. How about you?</answer>
+    </qa>
+    <qa>
+        <question>What are you up to these days?</question>
+        <answer>Just working and relaxing in my free time. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How was your weekend?</question>
+        <answer>It was nice, thanks! How was yours?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite greeting?</question>
+        <answer>I like “Hey!” because it’s casual and friendly.</answer>
+    </qa>
+    <qa>
+        <question>How’s your week been so far?</question>
+        <answer>It’s been good! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>What’s been going on lately?</question>
+        <answer>Nothing much, just keeping busy. What about you?</answer>
+    </qa>
+    <qa>
+        <question>How was your morning?</question>
+        <answer>It was great, thanks for asking! How was yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything on your end?</question>
+        <answer>Everything’s going smoothly. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you feeling today?</question>
+        <answer>I’m feeling good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite way to greet someone?</question>
+        <answer>“Hi!” is my go-to greeting. It’s simple and friendly.</answer>
+    </qa>
+    <qa>
+        <question>What’s the latest with you?</question>
+        <answer>Not much, just staying busy. How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s your favorite time of day to chat?</question>
+        <answer>I like chatting in the evening. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing today?</question>
+        <answer>I’m doing well, thanks! How are you doing?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day going so far?</question>
+        <answer>It’s going well, thanks! How’s your day going?</answer>
+    </qa>
+    <qa>
+        <question>How’s the weather today?</question>
+        <answer>The weather is nice and sunny. How’s it where you are?</answer>
+    </qa>
+    <qa>
+        <question>How’s your family?</question>
+        <answer>They’re doing well, thanks for asking!</answer>
+    </qa>
+    <qa>
+        <question>How was your day today?</question>
+        <answer>It was a good day, thanks! How was yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s your health?</question>
+        <answer>I’m feeling great, thank you!</answer>
+    </qa>
+    <qa>
+        <question>What’s going on with you today?</question>
+        <answer>Just having a relaxed day. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s it been going?</question>
+        <answer>It’s been going well! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing today?</question>
+        <answer>I’m doing great, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s happening in your world?</question>
+        <answer>Not much, just keeping busy. What about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s up with you today?</question>
+        <answer>Not much, just enjoying the day! How about you?</answer>
+    </qa>
+    <qa>
+        <question>What’s the best way to greet someone?</question>
+        <answer>I think a simple “Hi” is always a great choice!</answer>
+    </qa>
+    <qa>
+        <question>How’s your week going?</question>
+        <answer>It’s been going well, thanks! How’s yours?</answer>
+    </qa>
+        <qa>
+        <question>How are you?</question>
+        <answer>I'm doing great, thanks for asking! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing?</question>
+        <answer>I'm doing well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been?</question>
+        <answer>I've been good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How's it going?</question>
+        <answer>It's going well! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything going?</question>
+        <answer>Everything’s going well, thanks! How’s everything with you?</answer>
+    </qa>
+    <qa>
+        <question>How’s life?</question>
+        <answer>Life’s good, thank you! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day going?</question>
+        <answer>It’s going well, thanks! How’s your day?</answer>
+    </qa>
+    <qa>
+        <question>How do you feel?</question>
+        <answer>I feel good, thank you! How do you feel?</answer>
+    </qa>
+    <qa>
+        <question>How are you feeling today?</question>
+        <answer>I’m feeling great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything with you?</question>
+        <answer>Everything’s great, thanks for asking! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s it going with you?</question>
+        <answer>Everything’s good on my side. How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are things?</question>
+        <answer>Things are good, thanks! How about with you?</answer>
+    </qa>
+    <qa>
+        <question>How are you today?</question>
+        <answer>I’m doing well today, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your health?</question>
+        <answer>I’m feeling healthy, thanks! How’s yours?</answer>
+    </qa>
+    <qa>
+        <question>How are you feeling?</question>
+        <answer>I’m feeling great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your mood today?</question>
+        <answer>I’m in a good mood, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are things going for you?</question>
+        <answer>Things are going well, thanks for asking! How about for you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your week going?</question>
+        <answer>My week’s going well, thank you! How’s yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything on your end?</question>
+        <answer>Everything’s great, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been doing?</question>
+        <answer>I’ve been doing well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you holding up?</question>
+        <answer>I’m holding up fine, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are things with you?</question>
+        <answer>Things are good, thank you! How about with you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything going with you?</question>
+        <answer>Everything’s good on my side! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything going so far?</question>
+        <answer>It’s going well, thanks! How about for you?</answer>
+    </qa>
+    <qa>
+        <question>How are you managing?</question>
+        <answer>I’m managing well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing today?</question>
+        <answer>I’m doing great today, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s life treating you?</question>
+        <answer>Life’s treating me well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s it going so far?</question>
+        <answer>It’s going great! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you feeling lately?</question>
+        <answer>I’m feeling good lately, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything with your family?</question>
+        <answer>Everything’s great, thanks! How about with your family?</answer>
+    </qa>
+    <qa>
+        <question>How are you holding up lately?</question>
+        <answer>I’m doing fine, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been recently?</question>
+        <answer>I’ve been doing well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s the day treating you?</question>
+        <answer>The day’s treating me well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day been?</question>
+        <answer>It’s been good, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day going so far?</question>
+        <answer>It’s been good so far, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How are you at the moment?</question>
+        <answer>I’m doing great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been feeling?</question>
+        <answer>I’ve been feeling good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your week been?</question>
+        <answer>It’s been a good week, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing in general?</question>
+        <answer>In general, I’m doing well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything in your life?</question>
+        <answer>Everything’s great, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How are you right now?</question>
+        <answer>I’m doing well right now, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s it been going for you?</question>
+        <answer>It’s been going well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your mood today?</question>
+        <answer>I’m in a good mood today, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you today so far?</question>
+        <answer>So far, I’m doing well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How have you been lately?</question>
+        <answer>I’ve been good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your health these days?</question>
+        <answer>I’m feeling good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you this morning?</question>
+        <answer>I’m doing great this morning, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your energy today?</question>
+        <answer>I have a lot of energy today, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s your day been so far?</question>
+        <answer>It’s been good so far, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How’s work going for you?</question>
+        <answer>Work’s going well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you at the moment?</question>
+        <answer>I’m doing well right now, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How do you feel about everything?</question>
+        <answer>I feel good about everything, thanks! How do you feel?</answer>
+    </qa>
+    <qa>
+        <question>How have things been for you?</question>
+        <answer>Things have been great, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you coping with everything?</question>
+        <answer>I’m coping well, thank you! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How do you feel today?</question>
+        <answer>I feel good, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s everything going for you today?</question>
+        <answer>Everything’s great, thanks! How about for you?</answer>
+    </qa>
+    <qa>
+        <question>How are you managing these days?</question>
+        <answer>I’m managing well, thanks! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How’s life these days?</question>
+        <answer>Life’s been great, thanks! How about yours?</answer>
+    </qa>
+    <qa>
+        <question>How are you generally feeling?</question>
+        <answer>Generally, I’m feeling great! How about you?</answer>
+    </qa>
+    <qa>
+        <question>How are you doing overall?</question>
+        <answer>Overall, I’m doing well, thanks! How about you?</answer>
+    </qa>
+</qaList>

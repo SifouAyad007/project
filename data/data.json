@@ -1,0 +1,587 @@
+[
+  {
+    "question": "How are you?",
+    "answer": "I'm doing great, thank you for asking! How about you?"
+  },
+  {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a programming language used to make web pages interactive."
+  },
+  {
+      "question": "What is HTML?",
+      "answer": "HTML is the standard markup language for creating web pages."
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm doing great, thanks for asking! How about you?"
+},
+{
+    "question": "How are you doing?",
+    "answer": "I'm doing well, thanks! How about you?"
+},
+{
+    "question": "How have you been?",
+    "answer": "I've been good, thanks! How about you?"
+},
+{
+    "question": "How's it going?",
+    "answer": "It's going well! How about you?"
+},
+{
+    "question": "How’s everything going?",
+    "answer": "Everything’s going well, thanks! How’s everything with you?"
+},
+{
+    "question": "How’s life?",
+    "answer": "Life’s good, thank you! How about yours?"
+},
+{
+    "question": "How’s your day going?",
+    "answer": "It’s going well, thanks! How’s your day?"
+},
+{
+    "question": "How do you feel?",
+    "answer": "I feel good, thank you! How do you feel?"
+},
+{
+    "question": "How are you feeling today?",
+    "answer": "I’m feeling great, thanks! How about you?"
+},
+{
+    "question": "How’s everything with you?",
+    "answer": "Everything’s great, thanks for asking! How about you?"
+},
+{
+    "question": "How’s it going with you?",
+    "answer": "Everything’s good on my side. How about you?"
+},
+{
+    "question": "How are things?",
+    "answer": "Things are good, thanks! How about with you?"
+},
+{
+    "question": "How are you today?",
+    "answer": "I’m doing well today, thanks! How about you?"
+},
+{
+    "question": "How’s your health?",
+    "answer": "I’m feeling healthy, thanks! How’s yours?"
+},
+{
+    "question": "How are you feeling?",
+    "answer": "I’m feeling great, thanks! How about you?"
+},
+{
+    "question": "How’s your mood today?",
+    "answer": "I’m in a good mood, thank you! How about you?"
+},
+{
+    "question": "How are things going for you?",
+    "answer": "Things are going well, thanks for asking! How about for you?"
+},
+{
+    "question": "How’s your week going?",
+    "answer": "My week’s going well, thank you! How’s yours?"
+},
+{
+    "question": "How’s everything on your end?",
+    "answer": "Everything’s great, thank you! How about you?"
+},
+{
+    "question": "How have you been doing?",
+    "answer": "I’ve been doing well, thanks! How about you?"
+},
+{
+    "question": "How are you holding up?",
+    "answer": "I’m holding up fine, thanks! How about you?"
+},
+{
+    "question": "How are things with you?",
+    "answer": "Things are good, thank you! How about with you?"
+},
+{
+    "question": "How’s everything going with you?",
+    "answer": "Everything’s good on my side! How about you?"
+},
+{
+    "question": "How’s everything going so far?",
+    "answer": "It’s going well, thanks! How about for you?"
+},
+{
+    "question": "How are you managing?",
+    "answer": "I’m managing well, thank you! How about you?"
+},
+{
+    "question": "How are you doing today?",
+    "answer": "I’m doing great today, thanks! How about you?"
+},
+{
+    "question": "How’s life treating you?",
+    "answer": "Life’s treating me well, thank you! How about you?"
+},
+{
+    "question": "How’s it going so far?",
+    "answer": "It’s going great! How about you?"
+},
+{
+    "question": "How are you feeling lately?",
+    "answer": "I’m feeling good lately, thanks! How about you?"
+},
+{
+    "question": "How’s everything with your family?",
+    "answer": "Everything’s great, thanks! How about with your family?"
+},
+{
+    "question": "How are you holding up lately?",
+    "answer": "I’m doing fine, thanks! How about you?"
+},
+{
+    "question": "How have you been recently?",
+    "answer": "I’ve been doing well, thanks! How about you?"
+},
+{
+    "question": "How’s the day treating you?",
+    "answer": "The day’s treating me well, thank you! How about you?"
+},
+{
+    "question": "How’s your day been?",
+    "answer": "It’s been good, thanks! How about yours?"
+},
+{
+    "question": "How’s your day going so far?",
+    "answer": "It’s been good so far, thanks! How about yours?"
+},
+{
+    "question": "How are you at the moment?",
+    "answer": "I’m doing great, thanks! How about you?"
+},
+{
+    "question": "How have you been feeling?",
+    "answer": "I’ve been feeling good, thanks! How about you?"
+},
+{
+    "question": "How’s your week been?",
+    "answer": "It’s been a good week, thanks! How about yours?"
+},
+{
+    "question": "How are you doing in general?",
+    "answer": "In general, I’m doing well, thank you! How about you?"
+},
+{
+    "question": "How’s everything in your life?",
+    "answer": "Everything’s great, thanks! How about yours?"
+},
+{
+    "question": "How are you right now?",
+    "answer": "I’m doing well right now, thank you! How about you?"
+},
+{
+    "question": "How have things been for you?",
+    "answer": "Things have been great, thanks! How about you?"
+},
+{
+    "question": "How are you coping with everything?",
+    "answer": "I’m coping well, thank you! How about you?"
+},
+{
+    "question": "How do you feel today?",
+    "answer": "I feel good, thanks! How about you?"
+},
+{
+    "question": "How’s everything going for you today?",
+    "answer": "Everything’s great, thanks! How about for you?"
+},
+{
+    "question": "How are you managing these days?",
+    "answer": "I’m managing well, thanks! How about you?"
+},
+{
+    "question": "How’s life these days?",
+    "answer": "Life’s been great, thanks! How about yours?"
+},
+{
+    "question": "How are you generally feeling?",
+    "answer": "Generally, I’m feeling great! How about you?"
+},
+{
+    "question": "How are you doing overall?",
+    "answer": "Overall, I’m doing well, thanks! How about you?"
+},
+{
+    "question": "How’s your health today?",
+    "answer": "My health is good, thank you! How about yours?"
+},
+{
+    "question": "How’s it been going for you lately?",
+    "answer": "It’s been going well, thank you! How about you?"
+},
+{
+    "question": "How’s everything on your side?",
+    "answer": "Everything’s great, thanks! How about on your side?"
+},
+{
+    "question": "How’s your energy today?",
+    "answer": "I have a lot of energy today, thanks! How about you?"
+},
+{
+    "question": "How’s your day been so far?",
+    "answer": "It’s been good so far, thanks! How about yours?"
+},
+{
+    "question": "How are you at the moment?",
+    "answer": "I’m doing well right now, thanks! How about you?"
+},
+{
+    "question": "How do you feel about everything?",
+    "answer": "I feel good about everything, thanks! How do you feel?"
+},
+{
+    "question": "How have things been for you?",
+    "answer": "Things have been great, thanks! How about you?"
+},
+{
+    "question": "How are you coping with everything?",
+    "answer": "I’m coping well, thank you! How about you?"
+},
+{
+    "question": "How do you feel today?",
+    "answer": "I feel good, thanks! How about you?"
+},
+{
+    "question": "How’s everything going for you today?",
+    "answer": "Everything’s great, thanks! How about for you?"
+},
+{
+    "question": "How are you managing these days?",
+    "answer": "I’m managing well, thanks! How about you?"
+},
+{
+    "question": "How’s life these days?",
+    "answer": "Life’s been great, thanks! How about yours?"
+},
+{
+    "question": "How are you generally feeling?",
+    "answer": "Generally, I’m feeling great! How about you?"
+},
+{
+    "question": "How are you doing overall?",
+    "answer": "Overall, I’m doing well, thanks! How about you?"
+},
+{
+    "question": "How’s your health today?",
+    "answer": "My health is good, thank you! How about yours?"
+},
+{ "question": "What does 'Hello!' mean?", "answer": "It is a common way to greet someone." },
+{ "question": "What is 'Hi' used for?", "answer": "It is a casual greeting." },
+{ "question": "What does 'Good morning!' imply?", "answer": "It is a greeting used in the morning." },
+{ "question": "When do you say 'Good afternoon'?", "answer": "You say it to greet someone in the afternoon." },
+{ "question": "What does 'Good evening!' mean?", "answer": "It is a greeting used in the evening." },
+{ "question": "What is the purpose of saying 'Hey!'?", "answer": "It is an informal way to greet someone." },
+{ "question": "What does 'Howdy!' signify?", "answer": "It is a casual greeting often used in the Southern U.S." },
+{ "question": "What is the meaning of 'What's up?'", "answer": "It is an informal way to ask how someone is doing." },
+{ "question": "What does 'Hi there!' mean?", "answer": "It is a friendly way to greet someone." },
+{ "question": "Why do people say 'Hello there!'?", "answer": "It is a slightly formal or playful greeting." },
+{ "question": "What does 'Greetings!' convey?", "answer": "It is a formal way to say hello." },
+{ "question": "What is the meaning of 'Welcome!'", "answer": "It is a way to greet someone arriving." },
+{ "question": "When do you use 'Nice to meet you!'?", "answer": "You say it when meeting someone for the first time." },
+{ "question": "What does 'Pleased to meet you' mean?", "answer": "It expresses happiness about meeting someone." },
+{ "question": "What is 'How are you?' used for?", "answer": "It is a polite way to inquire about someone's well-being." },
+{ "question": "What does 'Good to see you!' imply?", "answer": "It is a warm way to greet someone you know." },
+{ "question": "What is the meaning of 'Hey there!'?", "answer": "It is a casual and friendly greeting." },
+{ "question": "What does 'Good day!' mean?", "answer": "It is a formal way to greet someone." },
+{ "question": "What is 'Yo!' used for?", "answer": "It is a very casual and informal greeting." },
+{ "question": "What does 'Salutations!' mean?", "answer": "It is a formal or old-fashioned way of greeting." },
+{ "question": "When do you use 'Hi everyone!'?", "answer": "It is used to greet a group of people." },
+{ "question": "What is 'Hello all!'?", "answer": "It is a friendly greeting to a group." },
+{ "question": "What does 'Good evening, everyone' imply?", "answer": "It is a formal greeting to a group in the evening." },
+{ "question": "What is 'Hi folks!' used for?", "answer": "It is a casual and friendly group greeting." },
+{ "question": "What does 'Hey, how’s it going?' mean?", "answer": "It is a casual way to ask someone about their day." },
+{ "question": "When do people say 'Hiya!'?", "answer": "It is an informal and playful greeting." },
+{ "question": "What is the meaning of 'Hello, friend!'?", "answer": "It is a warm and welcoming greeting." },
+{ "question": "What does 'Bonjour!' mean?", "answer": "It is a French greeting meaning 'Good day.'" },
+{ "question": "What does 'Hola!' signify?", "answer": "It is the Spanish word for 'Hello.'" },
+{ "question": "What does 'Ciao!' mean?", "answer": "It is an Italian greeting for both hello and goodbye." },
+{ "question": "What does 'Namaste!' convey?", "answer": "It is a respectful greeting in South Asian cultures." },
+{ "question": "What is the meaning of 'Shalom!'?", "answer": "It is a Hebrew greeting meaning 'Peace.'" },
+{ "question": "What does 'Hi, there' mean?", "answer": "It is a casual and friendly greeting." },
+{ "question": "What is 'Howdy, partner!' used for?", "answer": "It is a playful or regional greeting." },
+{ "question": "What does 'How’s everything?' mean?", "answer": "It is a way to check on someone's well-being." },
+{ "question": "What does 'Hey you!' mean?", "answer": "It is an informal way to catch someone's attention." },
+{ "question": "What is 'Hello, stranger!'?", "answer": "It is a playful greeting for someone you haven’t seen in a while." },
+{ "question": "What does 'Long time no see!' imply?", "answer": "It is a greeting used after a long absence." },
+{ "question": "What is the purpose of 'Welcome back!'?", "answer": "It is used to greet someone returning." },
+{ "question": "What does 'Good to have you here!' mean?", "answer": "It is a welcoming phrase." },
+{ "question": "What is 'Hiya there!'?", "answer": "It is a friendly and informal greeting." },
+{ "question": "When do you say 'Hey guys!'?", "answer": "It is used to greet a group casually." },
+{ "question": "What does 'Ahoy!' mean?", "answer": "It is a nautical greeting." },
+{ "question": "What is the meaning of 'What’s happening?'?", "answer": "It is an informal way to ask about events." },
+{ "question": "What does 'Morning!' imply?", "answer": "It is a shortened way to say 'Good morning.'" },
+{ "question": "What is 'Hello, good sir!' used for?", "answer": "It is a formal and polite greeting." },
+{ "question": "What does 'Hello, ma’am!' mean?", "answer": "It is a polite way to greet a woman." },
+{ "question": "What does 'Hello, dear friend!' imply?", "answer": "It is a warm and affectionate greeting." },
+{ "question": "When do you say 'Hi again!'?", "answer": "It is used when greeting someone a second time." },
+{ "question": "What is 'Good to meet you!'?", "answer": "It expresses happiness in meeting someone." },
+{ "question": "What does 'Hi everyone!' mean?", "answer": "It is used to greet a group of people." },
+{ "question": "What is the purpose of 'Hello, world!'?", "answer": "It is a playful greeting often used in programming." },
+{ "question": "When do you use 'Hi pal!'?", "answer": "It is a friendly and casual greeting." },
+{ "question": "What does 'How are things?' mean?", "answer": "It is an informal way to ask about someone's life." },
+{ "question": "What is 'Hey buddy!' used for?", "answer": "It is a friendly way to greet a close friend." },
+{ "question": "What does 'Greetings and salutations!' mean?", "answer": "It is a formal and cheerful way to greet someone." },
+{ "question": "What is 'Hi peeps!'?", "answer": "It is a casual and fun way to greet a group." },
+{ "question": "When do you say 'Hello, everyone!'?", "answer": "It is used to address a group formally." },
+{ "question": "What does 'What’s good?' mean?", "answer": "It is an informal way to ask about someone's mood or news." },
+{ "question": "What is 'Sup!' used for?", "answer": "It is a very casual abbreviation for 'What’s up?'" },
+{ "question": "What does 'Hi there, folks!' mean?", "answer": "It is a friendly way to greet a group of people." },
+{ "question": "What does 'Good to see you again!' imply?", "answer": "It expresses happiness about meeting someone again." },
+{ "question": "What is the purpose of 'Top of the morning to you!'?", "answer": "It is a cheerful greeting often associated with Irish culture." },
+{ "question": "When do you use 'Heya!'?", "answer": "It is a casual and informal greeting." },
+{ "question": "What does 'Wassup!' mean?", "answer": "It is a casual and slang version of 'What’s up?'" },
+{ "question": "What is 'Hey there, you!' used for?", "answer": "It is a playful and friendly greeting." },
+{ "question": "What does 'Good morning, team!' mean?", "answer": "It is a professional greeting for a group in the morning." },
+{ "question": "What is 'Hello again!'?", "answer": "It is a greeting used when meeting someone again." },
+{ "question": "When do you say 'Greetings, my friend!'?", "answer": "It is a formal and warm greeting." },
+{ "question": "What does 'Yo, what’s up?' mean?", "answer": "It is a casual and slang greeting." },
+{ "question": "What is 'Hi, guys!'?", "answer": "It is a casual way to greet a group of people." },
+{ "question": "What does 'What’s going on?' mean?", "answer": "It is an informal way to ask about events or someone's well-being." },
+{ "question": "What does 'Hullo!' signify?", "answer": "It is a variant spelling of 'Hello,' often used in literature." },
+{
+  "question": "What is JavaScript?",
+  "answer": "JavaScript is a programming language used to make web pages interactive."
+},
+{
+  "question": "What is HTML?",
+  "answer": "HTML is the standard markup language for creating web pages."
+},
+{
+  "question": "What is CSS?",
+  "answer": "CSS is a style sheet language used for describing the presentation of a document written in HTML."
+},
+{
+  "question": "What is Python?",
+  "answer": "Python is a high-level, interpreted programming language known for its readability."
+},
+{
+  "question": "What is an API?",
+  "answer": "An API is an interface that allows different software systems to communicate with each other."
+},
+{
+  "question": "What is a database?",
+  "answer": "A database is an organized collection of data, typically stored and accessed electronically."
+},
+{
+  "question": "What is machine learning?",
+  "answer": "Machine learning is a type of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed."
+},
+{
+  "question": "What is artificial intelligence?",
+  "answer": "Artificial intelligence is the simulation of human intelligence in machines designed to think and learn."
+},
+{
+  "question": "What is a website?",
+  "answer": "A website is a collection of related web pages that can be accessed through the internet."
+},
+{
+  "question": "What is SEO?",
+  "answer": "SEO stands for Search Engine Optimization, a practice to improve a website's ranking on search engines."
+},
+{
+  "question": "What is the internet?",
+  "answer": "The internet is a global network that connects millions of private, public, academic, business, and government networks."
+},
+{
+  "question": "What is a URL?",
+  "answer": "A URL (Uniform Resource Locator) is the address used to access a resource on the internet."
+},
+{
+  "question": "What is a browser?",
+  "answer": "A browser is a software application used to access and navigate websites."
+},
+{
+  "question": "What is the cloud?",
+  "answer": "The cloud refers to remote servers on the internet that store and process data instead of local devices."
+},
+{
+  "question": "What is cybersecurity?",
+  "answer": "Cybersecurity refers to the practice of protecting systems, networks, and programs from digital attacks."
+},
+{
+  "question": "What is a server?",
+  "answer": "A server is a computer or program that provides services to other computers or clients on a network."
+},
+{
+  "question": "What is a programming language?",
+  "answer": "A programming language is a formal language used to give instructions to a computer to perform specific tasks."
+},
+{
+  "question": "What is HTML5?",
+  "answer": "HTML5 is the fifth version of HTML, used to structure and present content on the web."
+},
+{
+  "question": "What is CSS3?",
+  "answer": "CSS3 is the latest version of CSS that provides enhanced styling capabilities for web pages."
+},
+{
+  "question": "What is a content management system?",
+  "answer": "A content management system (CMS) is a software used to create, manage, and modify content on a website."
+},
+{
+  "question": "What is WordPress?",
+  "answer": "WordPress is an open-source CMS used for creating websites and blogs."
+},
+{
+  "question": "What is e-commerce?",
+  "answer": "E-commerce refers to buying and selling goods or services using the internet."
+},
+{
+  "question": "What is cloud computing?",
+  "answer": "Cloud computing is the delivery of computing services like storage, processing, and software over the internet."
+},
+{
+  "question": "What is data mining?",
+  "answer": "Data mining is the process of analyzing large sets of data to discover patterns and relationships."
+},
+{
+  "question": "What is the internet of things?",
+  "answer": "The internet of things (IoT) refers to the network of interconnected devices that can exchange data over the internet."
+},
+{
+  "question": "What is Git?",
+  "answer": "Git is a distributed version control system used to track changes in source code during software development."
+},
+{
+  "question": "What is a repository?",
+  "answer": "A repository is a storage location for software packages, often used in software development and version control."
+},
+{
+  "question": "What is Angular?",
+  "answer": "Angular is a platform and framework for building client-side applications using HTML, CSS, and JavaScript."
+},
+{
+  "question": "What is React?",
+  "answer": "React is a JavaScript library for building user interfaces, particularly single-page applications."
+},
+{
+  "question": "What is Node.js?",
+  "answer": "Node.js is a JavaScript runtime that allows JavaScript to be run on the server side."
+},
+{
+  "question": "What is MongoDB?",
+  "answer": "MongoDB is a NoSQL database that uses a document-oriented data model."
+},
+{
+  "question": "What is SQL?",
+  "answer": "SQL (Structured Query Language) is used to manage and query relational databases."
+},
+{
+  "question": "What is GitHub?",
+  "answer": "GitHub is a platform for hosting and collaborating on Git repositories."
+},
+{
+  "question": "What is an algorithm?",
+  "answer": "An algorithm is a step-by-step procedure used for calculations, data processing, and automated reasoning tasks."
+},
+{
+  "question": "What is debugging?",
+  "answer": "Debugging is the process of identifying and fixing issues or bugs in software code."
+},
+{
+  "question": "What is a variable in programming?",
+  "answer": "A variable is a container used to store data that can change during the execution of a program."
+},
+{
+  "question": "What is an IDE?",
+  "answer": "An IDE (Integrated Development Environment) is a software application that provides comprehensive tools for software development."
+},
+{
+  "question": "What is a framework?",
+  "answer": "A framework is a set of tools and libraries that help developers build applications more efficiently."
+},
+{
+  "question": "What is machine learning?",
+  "answer": "Machine learning is a type of artificial intelligence that enables systems to learn from data and make predictions."
+},
+{
+  "question": "What is a chatbot?",
+  "answer": "A chatbot is a software application designed to simulate human conversation through text or voice interactions."
+},
+{
+  "question": "What is data science?",
+  "answer": "Data science is an interdisciplinary field that uses scientific methods and algorithms to extract insights from structured and unstructured data."
+},
+{
+  "question": "What is a neural network?",
+  "answer": "A neural network is a set of algorithms designed to recognize patterns by interpreting sensory data through machine learning models."
+},
+{
+  "question": "What is a deep learning model?",
+  "answer": "Deep learning is a subset of machine learning that uses neural networks with many layers to analyze complex patterns in data."
+},
+{
+  "question": "What is AI in general?",
+  "answer": "AI (Artificial Intelligence) refers to the simulation of human intelligence processes by machines, especially computer systems."
+},
+{
+  "question": "What is Big Data?",
+  "answer": "Big Data refers to large and complex datasets that require advanced tools for processing, storage, and analysis."
+},
+{
+  "question": "What is cloud storage?",
+  "answer": "Cloud storage is the online storage of data, files, and backups in the cloud, accessible via the internet."
+},
+{
+  "question": "What is a data warehouse?",
+  "answer": "A data warehouse is a large storage system that aggregates and stores large amounts of data for analysis."
+},
+{
+  "question": "What is a CDN?",
+  "answer": "A CDN (Content Delivery Network) is a system of distributed servers that deliver content to users based on their geographic location."
+},
+{
+  "question": "What is UX design?",
+  "answer": "UX design (User Experience) refers to the process of designing digital products with the goal of providing a positive experience for users."
+},
+{
+  "question": "What is UI design?",
+  "answer": "UI design (User Interface) is the design of the interface through which users interact with digital products, like websites and apps."
+},
+{
+  "question": "What is responsive web design?",
+  "answer": "Responsive web design is an approach to web design that ensures web pages render well on various screen sizes and devices."
+},
+{
+  "question": "What is a web framework?",
+  "answer": "A web framework is a software framework designed to help developers build web applications more efficiently."
+},
+{
+  "question": "What is an HTTP request?",
+  "answer": "An HTTP request is a message sent by a client to a server to request information, usually from a website or web service."
+},
+{
+  "question": "What is a REST API?",
+  "answer": "A REST API is an application programming interface that uses HTTP requests to retrieve and manipulate data."
+},
+{
+  "question": "What is a URL shortener?",
+  "answer": "A URL shortener is a service that converts long URLs into shorter, more manageable ones for easier sharing."
+},
+{
+  "question": "What is a CMS?",
+  "answer": "A CMS (Content Management System) is a platform that allows users to create, manage, and modify digital content, usually for websites."
+},
+{
+  "question": "What is a sitemap?",
+  "answer": "A sitemap is a file that lists all the pages on a website to help search engines crawl and index content."
+},
+{
+  "question": "What is HTTP/2?",
+  "answer": "HTTP/2 is the second major version of the HTTP protocol, designed to improve website performance and security."
+},
+{
+  "question": "What is a web hosting service?",
+  "answer": "A web hosting service provides the infrastructure for storing and serving websites to users on the internet."
+},
+{
+  "question": "What is a blog?",
+  "answer": "A blog is a regularly updated website or webpage that shares written content on various topics, often in a conversational tone."
+}
+]
