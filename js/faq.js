@@ -21,6 +21,14 @@ document.addEventListener('DOMContentLoaded', () => {
         var navbar = document.getElementById("navbar");
         navbar.classList.toggle("open");
     }
-const btn = document.getElementById('') ;
-const btn = document.getElementById('') ;
-const btn = document.getElementById('') ;
+
+const btn1 = document.getElementById('btnstart2') ;
+const btn2 = document.getElementById('btnstart3') ;
+const btn3 = document.getElementById('btnstart1') ;
+
+function gotosignein(){
+
+    window.location.href = "SIGNIN.html";
+
+    
+}
