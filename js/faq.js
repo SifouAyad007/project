@@ -21,3 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
         var navbar = document.getElementById("navbar");
         navbar.classList.toggle("open");
     }
+const btn = document.getElementById('') ;
+const btn = document.getElementById('') ;
+const btn = document.getElementById('') ;
